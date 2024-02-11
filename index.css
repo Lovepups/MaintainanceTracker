@@ -1,0 +1,43 @@
+.pocket{
+background-color: blue;
+padding-top: 50px;
+}
+.mesmerize{
+background-color: white;
+height: 700px;
+width: 700px;
+margin: auto;
+border-radius: 25px;
+padding-top: 50px;
+}
+.Rebellious{
+text-align: center;
+font-family: fantasy;
+font-weight: bolder;
+font-size:xx-large;
+color: blue;
+}
+.TheGamers{
+height: 400px ;
+width: 400px;
+background-color: blueviolet;
+margin: auto;
+padding-left: 100px;
+
+}
+input{
+height: 50px ;
+width: 300px ;
+
+}
+label{
+font-size:20px;
+margin-top: 100px;
+}
+.Radiance{
+height: 50px;
+width: 300px;
+background-color: blue;
+color: white;
+border-radius: 10px ;
+}
